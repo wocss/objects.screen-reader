@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wocss/objects.screen-reader/issues"
   },
-  "homepage": "https://github.com/wocss/objects.screen-reader#readme"
+  "homepage": "https://github.com/wocss/objects.screen-reader#readme",
+  "dependencies": {
+    "wocss-tools-bem-constructor": "^1.0.1"
+  }
 }
