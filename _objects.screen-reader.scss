@@ -2,6 +2,20 @@
   #Screen reader
 \*------------------------------------*/
 
+// Here we set a variable assuming that bem-constructor tools are not set
+// globally. If they have been previously been defined, the following variable
+// will be overriden and will be set to `true`.
+
+$wocss-tools-bem-constructor: false !default;
+
+@if ($wocss-tools-bem-constructor == false) {
+  @warn "Oops! Have you included the wocss-tools-bem-constructor module?"
+};
+
+
+
+
+
 @include object('screen-reader') {
   clip: rect(1px, 1px, 1px, 1px);
   height: 1px;
