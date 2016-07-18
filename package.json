@@ -1,0 +1,23 @@
+{
+  "name": "wocss-objects-screen-reader",
+  "version": "1.0.0",
+  "description": "wocss screen-reader object",
+  "main": "_objects.screen-reader.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wocss/objects.screen-reader.git"
+  },
+  "keywords": [
+    "bemit",
+    "css",
+    "itcss",
+    "sass",
+    "wocss"
+  ],
+  "author": "Gean Carlos <gean.marroquin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wocss/objects.screen-reader/issues"
+  },
+  "homepage": "https://github.com/wocss/objects.screen-reader#readme"
+}
