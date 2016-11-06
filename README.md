@@ -1,3 +1,6 @@
+> ## This module is DEPRECATED
+> See [trumps.utilities](https://github.com/wocss/trumps.utilities/blob/master/src/_trumps.hide.scss#L32)
+
 # Screen reader
 
 > Object
