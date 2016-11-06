@@ -1,5 +1,5 @@
 > ## This module is DEPRECATED
-> See [trumps.utilities](https://github.com/wocss/trumps.utilities/blob/master/src/_trumps.hide.scss#L32)
+> This module has been moved to  [trumps.utilities](https://github.com/wocss/trumps.utilities/blob/master/src/_trumps.hide.scss#L32) (and renamed to `.u-hide`)
 
 # Screen reader
 
