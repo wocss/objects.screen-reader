@@ -1,6 +1,6 @@
 {
   "name": "wocss-objects-screen-reader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "[DEPRECATED] wocss screen-reader object",
   "main": "_objects.screen-reader.scss",
   "repository": {
